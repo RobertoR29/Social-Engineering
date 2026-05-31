@@ -34,4 +34,4 @@ and social engineering simulation programs.
 
 ---
 
-> **Note:** The full research paper and video presentation can be found in this repository.
+> **Note:** The full research paper, slideshow, and video presentation can be found in this repository.
